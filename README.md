@@ -53,7 +53,7 @@ To make changes, edit the HTML and CSS files directly. The main files are:
 
 M. Poorna Chandra Rao - [mpoorna11@jnn.edu.in]
 
-GitHub: [https://github.com/chandra mannepalli]
+GitHub: [https://github.com/chandramannepalli]
 
 LinkedIn: [# M. Poorna Chandra Rao - Portfolio
 
