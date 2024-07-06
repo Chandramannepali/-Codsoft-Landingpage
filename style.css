@@ -1,0 +1,109 @@
+body{
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    background-image: url(https://res.cloudinary.com/dxpgneduv/image/upload/v1720069579/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471_q9jqr4.jpg);
+    background-size: cover;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navright{
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+.navleft{
+    padding: 10px;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 10px;
+    list-style: none;
+}
+nav ul  li a{
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+nav ul li a:hover {
+    color:rgba(255, 98, 0, 0.929);
+}  
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.aboutleft{
+    display: flex;
+    flex-direction: column;
+}
+img{
+    height: 180px;
+    padding: 10px;
+}
+h1{
+    padding-top: -15px;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 75px;
+    padding-right: 35px;
+    color:whitesmoke;
+}
+span{
+    color: rgb(201, 94, 12);
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    height: 50%;
+}
+.service{
+    border-radius: 10px;
+    background-color: black;
+    margin: 20px;
+    width: 35%;
+}
+.contact{
+    border-radius: 10px;
+    background-color: black;
+    margin: 20px;
+    width: 35%;
+}
+h3{
+    color: rgba(201, 77, 11, 0.868);
+    display: flex;
+    justify-content: center;
+}
+ul{
+    color: white;
+}
+.socialicons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.socialicons img{
+    height: 35px;
+    padding: 10px;
+}
+footer{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    padding-left: 100px;
+    padding-top: -15px;
+}
